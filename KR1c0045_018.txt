@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 御纂詩義折中
-#+DATE: 2015-09-23 09:37:02
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:06:12.591002
+#+PROPERTY: ID KR1c0045
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1c0045_WYG_018-1a>¶
 欽定四庫全書¶
 御纂詩義折中卷十八¶
@@ -1064,4 +1066,3 @@
 　¶
 　¶
 御纂詩義折中卷十八¶
-
